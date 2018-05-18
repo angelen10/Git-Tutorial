@@ -1,0 +1,7 @@
+如果你正和伙伴一起开发项目，就会需要用到 pull。假设其中一个伙伴复制了你的保存区，在 ViewController 做了些改动。他做完改动后，就会 commit 并 push 到保存区。要把这些改动同步到你的本机保存区内，就会需要这个 pull 功能。
+
+现在让我们来做个示范。创建一个名为 /FileToPull/ 的新文件于 GitHub 保存区。你当然是想 pull 一个全新或更新了的文件。
+
+在菜单中的 Source Control 内，点击 /pull/ ，在这个项目中请选择主要分支，再按 /pull/ 。
+
+我 pull 了一个新文件，成功后它会在 project navigator 里：
